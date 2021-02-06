@@ -37,7 +37,8 @@ GIF created with [ezgif](https://ezgif.com).
 ## Notes
 
 Describe any challenges encountered while building the app.
-This was my first time working with swift and I am still a bit new to macos.
+
+This was my first time working with swift and I am still a bit new to macos so it took a while to get aquainted with the syntax and the software.
 
 
 ## License
